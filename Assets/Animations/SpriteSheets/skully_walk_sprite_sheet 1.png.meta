@@ -1,0 +1,1099 @@
+fileFormatVersion: 2
+guid: 0ba6f953f466d8d4ea51e9865806dc9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6665803272967609845
+    second: skully_walk_sprite_sheet 1_0
+  - first:
+      213: 3394477979971586344
+    second: skully_walk_sprite_sheet 1_1
+  - first:
+      213: 2372252358682095400
+    second: skully_walk_sprite_sheet 1_2
+  - first:
+      213: -8907173367396913964
+    second: skully_walk_sprite_sheet 1_3
+  - first:
+      213: 1299463841803327775
+    second: skully_walk_sprite_sheet 1_4
+  - first:
+      213: -3509497652983531061
+    second: skully_walk_sprite_sheet 1_5
+  - first:
+      213: 1430255099037549838
+    second: skully_walk_sprite_sheet 1_6
+  - first:
+      213: -8479200705954345343
+    second: skully_walk_sprite_sheet 1_7
+  - first:
+      213: 7209979585555503731
+    second: skully_walk_sprite_sheet 1_8
+  - first:
+      213: 5122411923463245419
+    second: skully_walk_sprite_sheet 1_9
+  - first:
+      213: -1138581098351342670
+    second: skully_walk_sprite_sheet 1_10
+  - first:
+      213: 132620287253620987
+    second: skully_walk_sprite_sheet 1_11
+  - first:
+      213: -2264944676622672849
+    second: skully_walk_sprite_sheet 1_12
+  - first:
+      213: -3557610266822730194
+    second: skully_walk_sprite_sheet 1_13
+  - first:
+      213: -5175116848545999675
+    second: skully_walk_sprite_sheet 1_14
+  - first:
+      213: 6590976572980895187
+    second: skully_walk_sprite_sheet 1_15
+  - first:
+      213: 3957989568505326163
+    second: skully_walk_sprite_sheet 1_16
+  - first:
+      213: -224267874505418196
+    second: skully_walk_sprite_sheet 1_17
+  - first:
+      213: -3345856865189558907
+    second: skully_walk_sprite_sheet 1_18
+  - first:
+      213: -2630696937203384768
+    second: skully_walk_sprite_sheet 1_19
+  - first:
+      213: -6230104894975905055
+    second: skully_walk_sprite_sheet 1_20
+  - first:
+      213: -859319721272387081
+    second: skully_walk_sprite_sheet 1_21
+  - first:
+      213: 4421787959893791603
+    second: skully_walk_sprite_sheet 1_22
+  - first:
+      213: 2863416368661544278
+    second: skully_walk_sprite_sheet 1_23
+  - first:
+      213: -858285600799967267
+    second: skully_walk_sprite_sheet 1_24
+  - first:
+      213: -6371031199154525692
+    second: skully_walk_sprite_sheet 1_25
+  - first:
+      213: -8436000584772041920
+    second: skully_walk_sprite_sheet 1_26
+  - first:
+      213: 6207050124695196092
+    second: skully_walk_sprite_sheet 1_27
+  - first:
+      213: 3132279238580218574
+    second: skully_walk_sprite_sheet 1_28
+  - first:
+      213: 7991614410175072812
+    second: skully_walk_sprite_sheet 1_29
+  - first:
+      213: -3273595067162713628
+    second: skully_walk_sprite_sheet 1_30
+  - first:
+      213: 6244924504279953125
+    second: skully_walk_sprite_sheet 1_31
+  - first:
+      213: -5281630405910252763
+    second: skully_walk_sprite_sheet 1_32
+  - first:
+      213: -8839647626496374551
+    second: skully_walk_sprite_sheet 1_33
+  - first:
+      213: -7225215187130404339
+    second: skully_walk_sprite_sheet 1_34
+  - first:
+      213: -111419133128688911
+    second: skully_walk_sprite_sheet 1_35
+  - first:
+      213: -496735375125333548
+    second: skully_walk_sprite_sheet 1_36
+  - first:
+      213: 2177732834174378897
+    second: skully_walk_sprite_sheet 1_37
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: PS4
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 233
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0df81b9565c3e14db99e0efa3ca9373
+      internalID: -6665803272967609845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 234
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb9158c1524a4c4d9ed5eeab4945655
+      internalID: 3394477979971586344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 233
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caef1c4e3e738544a4dece72d8ae348
+      internalID: 2372252358682095400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 145
+        width: 41
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47e5a7810b5b5b48bfd8d6de4013f87
+      internalID: -8907173367396913964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 144
+        width: 37
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42c0e41e16d4364dac791e7806164b1
+      internalID: 1299463841803327775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 33
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c567aa61b620d1845952b2dc80c4ce01
+      internalID: -3509497652983531061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 144
+        width: 30
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1665ee2867c6ea44f95b19464ccbbcaf
+      internalID: 1430255099037549838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 34
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f619af75c72976a47914c58371c34d16
+      internalID: -8479200705954345343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 145
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a439be9c826edb4c886ca0d6095fa54
+      internalID: 7209979585555503731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 147
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e4c07cbda080549b687c0615c0a1bf
+      internalID: 5122411923463245419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 147
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a938ee56c925b94988e24e0feede1ac
+      internalID: -1138581098351342670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 146
+        width: 32
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53021eafde79bf242a316cf1817a0695
+      internalID: 132620287253620987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 146
+        width: 29
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42ef2a468e29a146b369e83774c8d94
+      internalID: -2264944676622672849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 146
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3416c7ccd4d5142ba7645ac228ea8c
+      internalID: -3557610266822730194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 148
+        width: 37
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9c23dcc86a6e34cb74f93deac410cd
+      internalID: -5175116848545999675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 187
+        width: 7
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e23e8e0e137a844afd91a1e9c63b7b
+      internalID: 6590976572980895187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 187
+        width: 7
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aa36f950bec484ba6636abb73d2cbb
+      internalID: 3957989568505326163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 187
+        width: 7
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d315cbd7e45ba442bc5567f0e17cfb4
+      internalID: -224267874505418196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 187
+        width: 7
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbe4c4efa845dd4ba5e5ba60fcb9e23
+      internalID: -3345856865189558907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 138
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc9d4027e218db48aa515d6470c8319
+      internalID: -2630696937203384768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_20
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 160
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb559b224260afc469173cc37a7fdd0a
+      internalID: -6230104894975905055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 138
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820d55cd49025ac4e8c68efb5dae4e12
+      internalID: -859319721272387081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 122
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7074697bd391a4aa05b206ce9fea4e
+      internalID: 4421787959893791603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 123
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996dc7419149a5c4c8341d12019b0930
+      internalID: 2863416368661544278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 24
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a6967b260a2a146864ee4514dfb592
+      internalID: -858285600799967267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 23
+        width: 37
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a32e046f3583d94b99a48d5f24c4b06
+      internalID: -6371031199154525692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_26
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 23
+        width: 33
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec6034633e556d4aae1f058be875270
+      internalID: -8436000584772041920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_27
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 23
+        width: 30
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c21419b62f0684cb32ba2c668a8cc9
+      internalID: 6207050124695196092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_28
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 23
+        width: 35
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57199bfe8c77534ebf76221802b4348
+      internalID: 3132279238580218574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_29
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 24
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f2540f9b7503a4f9144acc2a866a2f
+      internalID: 7991614410175072812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_30
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 25
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc055fbccb9e6a442ac24d0e1c56ec14
+      internalID: -3273595067162713628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_31
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 25
+        width: 32
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5f2c360c31574429c6df34db4d355e
+      internalID: 6244924504279953125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_32
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 25
+        width: 32
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586c8e15e76dde245892364f6a2fd4bf
+      internalID: -5281630405910252763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_33
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 25
+        width: 29
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dab16f25491e64ca2d97c5e12cb048
+      internalID: -8839647626496374551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_34
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 25
+        width: 33
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdd7fdf5a1783443b880916151f59a4
+      internalID: -7225215187130404339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_35
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 26
+        width: 37
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5d243b0f8a37e4992d93df7836d48e
+      internalID: -111419133128688911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_36
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 24
+        width: 20
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f44e1d9dba46d945bc27599ec4b9d3a
+      internalID: -496735375125333548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_walk_sprite_sheet 1_37
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 24
+        width: 20
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfa5f52f0fd8604283d92bd17c7bd1f
+      internalID: 2177732834174378897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

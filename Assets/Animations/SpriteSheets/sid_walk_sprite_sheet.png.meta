@@ -1,0 +1,619 @@
+fileFormatVersion: 2
+guid: 5ea25e2e5bd9cb24a91c443b816da373
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4650808279713225286
+    second: sid_walk_sprite_sheet_0
+  - first:
+      213: -3153112930239480900
+    second: sid_walk_sprite_sheet_1
+  - first:
+      213: -3910843544692024140
+    second: sid_walk_sprite_sheet_2
+  - first:
+      213: 7430111708157392082
+    second: sid_walk_sprite_sheet_3
+  - first:
+      213: -3905860897148258373
+    second: sid_walk_sprite_sheet_4
+  - first:
+      213: 608698779678409374
+    second: sid_walk_sprite_sheet_5
+  - first:
+      213: 4956612163836033548
+    second: sid_walk_sprite_sheet_6
+  - first:
+      213: 3072117808976325513
+    second: sid_walk_sprite_sheet_7
+  - first:
+      213: 1368149603534325392
+    second: sid_walk_sprite_sheet_8
+  - first:
+      213: 3908651077846852589
+    second: sid_walk_sprite_sheet_9
+  - first:
+      213: -7695763264870213170
+    second: sid_walk_sprite_sheet_10
+  - first:
+      213: -7397614439600119474
+    second: sid_walk_sprite_sheet_11
+  - first:
+      213: -1656584966317594991
+    second: sid_walk_sprite_sheet_12
+  - first:
+      213: -7445562352354775978
+    second: sid_walk_sprite_sheet_13
+  - first:
+      213: -4438041947036882260
+    second: sid_walk_sprite_sheet_14
+  - first:
+      213: 1709612467528127993
+    second: sid_walk_sprite_sheet_15
+  - first:
+      213: -5079538746892685642
+    second: sid_walk_sprite_sheet_16
+  - first:
+      213: 7016669418897064946
+    second: sid_walk_sprite_sheet_17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: PS4
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sid_walk_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 3903
+        width: 1890
+        height: 1172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1171f7ff06415a54b86b83ff8d989731
+      internalID: -4650808279713225286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sid_walk_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 3892
+        width: 2018
+        height: 1241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6a83eec87e05c4a910cb9298847117
+      internalID: -3153112930239480900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sid_walk_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 6323
+        y: 3903
+        width: 2088
+        height: 1265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce727e7c9b74824d88b633ebf76c173
+      internalID: -3910843544692024140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sid_walk_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 9059
+        y: 3892
+        width: 2088
+        height: 1310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3753d8acdbea5c4f81c1f1163a7d2eb
+      internalID: 7430111708157392082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sid_walk_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 11889
+        y: 3915
+        width: 2123
+        height: 1241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df7d31c7ac0912409df53ef721cbbad
+      internalID: -3905860897148258373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sid_walk_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 14908
+        y: 3903
+        width: 2088
+        height: 1207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ad643959b6e1c4089d5ef3cd70a2a8
+      internalID: 608698779678409374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sid_walk_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 17935
+        y: 3903
+        width: 1961
+        height: 1195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b1cd43300789d41af925b534f64b67
+      internalID: 4956612163836033548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sid_walk_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 20720
+        y: 3903
+        width: 1821
+        height: 1195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e575eccfe2da2f4785b9d6f596f4b6d
+      internalID: 3072117808976325513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sid_walk_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 23863
+        y: 3903
+        width: 1774
+        height: 1195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa357f2b8eced6d4a91bac61d99c4421
+      internalID: 1368149603534325392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sid_walk_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 682
+        width: 1825
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd14ca96bd538944f90cd72025f157af
+      internalID: 3908651077846852589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sid_walk_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 701
+        width: 1806
+        height: 1191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2bbd10321c03f4a977a77c0359ce11
+      internalID: -7695763264870213170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sid_walk_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 6224
+        y: 691
+        width: 1982
+        height: 1182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fcf48c7c9c9b448a69993de4fbd73c
+      internalID: -7397614439600119474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sid_walk_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 9124
+        y: 682
+        width: 2089
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b854f0c5244cfcd4f9101e1acf351b6c
+      internalID: -1656584966317594991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sid_walk_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 12087
+        y: 691
+        width: 2128
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f834c944f447e47a5cad25fa177216
+      internalID: -7445562352354775978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sid_walk_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 14996
+        y: 701
+        width: 2041
+        height: 1250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e49fe4f0c27a34db163cb20c080d13
+      internalID: -4438041947036882260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sid_walk_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 17714
+        y: 701
+        width: 2070
+        height: 1250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b1c561e99bbfe4da552772e51b0b57
+      internalID: 1709612467528127993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sid_walk_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 20631
+        y: 691
+        width: 2020
+        height: 1221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7c9de8c50aac048b6fbc47501e7164
+      internalID: -5079538746892685642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sid_walk_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 23462
+        y: 672
+        width: 1903
+        height: 1162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f45f2d23f7f5d247aa2e34d73e03d2c
+      internalID: 7016669418897064946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 75297b765df25644bbe0a4d49cd70605
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

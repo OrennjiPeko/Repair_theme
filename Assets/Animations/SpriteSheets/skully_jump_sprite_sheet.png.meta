@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: 3eb8cae4ecd7fcf469e395bd547a5239
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3726341226219509534
+    second: skully_jump_sprite_sheet_0
+  - first:
+      213: -9203008248297361187
+    second: skully_jump_sprite_sheet_1
+  - first:
+      213: 5973364518751646787
+    second: skully_jump_sprite_sheet_2
+  - first:
+      213: 5117146053272865038
+    second: skully_jump_sprite_sheet_3
+  - first:
+      213: -816892554225374634
+    second: skully_jump_sprite_sheet_4
+  - first:
+      213: 2391242974580370085
+    second: skully_jump_sprite_sheet_5
+  - first:
+      213: -4399247165568558463
+    second: skully_jump_sprite_sheet_7
+  - first:
+      213: -7718399644159362455
+    second: skully_jump_sprite_sheet_8
+  - first:
+      213: 7801121820176360056
+    second: skully_jump_sprite_sheet_9
+  - first:
+      213: 6108707193494770988
+    second: skully_jump_sprite_sheet_10
+  - first:
+      213: -6279735534410739150
+    second: skully_jump_sprite_sheet_11
+  - first:
+      213: 1877541779867397420
+    second: skully_jump_sprite_sheet_12
+  - first:
+      213: 6767195285440848018
+    second: skully_jump_sprite_sheet_13
+  - first:
+      213: 8391374681603562099
+    second: skully_jump_sprite_sheet_14
+  - first:
+      213: -21464367846372020
+    second: skully_jump_sprite_sheet_15
+  - first:
+      213: 3976895985264591294
+    second: skully_jump_sprite_sheet_16
+  - first:
+      213: 7052666698081861890
+    second: skully_jump_sprite_sheet_17
+  - first:
+      213: -3865362553574231286
+    second: skully_jump_sprite_sheet_18
+  - first:
+      213: -6008134161281194842
+    second: skully_jump_sprite_sheet_20
+  - first:
+      213: -6068322976798789688
+    second: skully_jump_sprite_sheet_21
+  - first:
+      213: 9177890064741088886
+    second: skully_jump_sprite_sheet_22
+  - first:
+      213: 1227757178403390150
+    second: skully_jump_sprite_sheet_23
+  - first:
+      213: 268759150563227175
+    second: skully_jump_sprite_sheet_24
+  - first:
+      213: -19767858103421160
+    second: skully_jump_sprite_sheet_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: PS4
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 401
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef32788c409c0548bcc4fae8f9bd98b
+      internalID: 3726341226219509534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 401
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4284e0a9361226644b2135813cb75ec8
+      internalID: -9203008248297361187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 401
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaa5222a76d4f148a33c7f0815672d1
+      internalID: 5973364518751646787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 244
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39732c9cd28b11a419388a7c0e8b1605
+      internalID: 5117146053272865038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 244
+        width: 40
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5e6530f32f50d4786344920ee33967
+      internalID: -816892554225374634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 244
+        width: 39
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10054f84dedc7f49a6b0a01a7e69217
+      internalID: 2391242974580370085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 250
+        width: 36
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400d979e922223244a41c54cf803000c
+      internalID: -4399247165568558463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 256
+        width: 35
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f755c0ca807ee94c8e8d0ab2500f43c
+      internalID: -7718399644159362455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 266
+        width: 35
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f869074b70977444fbee1912c18e1011
+      internalID: 7801121820176360056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 256
+        width: 33
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a0a957ffd76e94fa88439ed71cc115
+      internalID: 6108707193494770988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 244
+        width: 36
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9f7bc8a6be09948a44874141d5247f
+      internalID: -6279735534410739150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 244
+        width: 35
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03909db432dff94b9b05f9163e07f2d
+      internalID: 1877541779867397420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 197
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96afe73999a0cf440815397067d982cd
+      internalID: 6767195285440848018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 197
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53af9d0640229a84f9188bb224f618d6
+      internalID: 8391374681603562099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 199
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33e18596359a7149ac2fe28a218ca54
+      internalID: -21464367846372020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 41
+        width: 39
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6d73f2f7e685742993b05ad1fcf5b4
+      internalID: 3976895985264591294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 43
+        width: 40
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790e4a10d384a914fb1d3e529b22a0a3
+      internalID: 7052666698081861890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 38
+        width: 38
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1821598d40b2d6e4181aa50b282e8c8c
+      internalID: -3865362553574231286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 47
+        width: 36
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969d6d0942667ce4a98c3dc53c7ad975
+      internalID: -6008134161281194842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 53
+        width: 35
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2973ca248fb04c44f89abea4526f9991
+      internalID: -6068322976798789688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 63
+        width: 35
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7e31e035f20a9499e9a22d44d84666
+      internalID: 9177890064741088886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 53
+        width: 33
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b52829381eae84ea0009e33fa2cdbf
+      internalID: 1227757178403390150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 41
+        width: 36
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f026f2155e2d5a47829202752675c24
+      internalID: 268759150563227175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skully_jump_sprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 41
+        width: 36
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8337a4ff8d94ed40acfd18baedffa78
+      internalID: -19767858103421160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: de105dec88a85c24fb5caaae173eea22
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
